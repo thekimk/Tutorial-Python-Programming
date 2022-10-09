@@ -1,7 +1,7 @@
-## ✔️ Tutorial Python Programming
+# ✔️ Tutorial Python Programming
 
 > 데이터사이언스를 위한 파이썬 용어와 사용법 및 분석에 접근하는 기초 튜토리얼입니다.
-- 강의영상은 [YouTube](https://www.youtube.com/watch?v=ku3GsS2vUjs&list=PLYP0LH6y1TM6H3o82V-vDqQ7DbiRLJf4J)에 무료로 제공합니다.
+- 강의영상은 [YouTube 크크인싸이트](https://www.youtube.com/watch?v=ku3GsS2vUjs&list=PLYP0LH6y1TM6H3o82V-vDqQ7DbiRLJf4J)에 무료로 제공합니다.
 - 강의 구성에 따라서 강의자료와 강의영상의 `목차구성 넘버링`이 차이가 있을 수 있으나, `강의자료 기준`이 정확합니다.
 - 강의자료의 `오탈자를 포함한 내용이슈`가 있어서 언제든 문의주시면 `최대한 빨리 업데이트` 할 계획입니다.
   
