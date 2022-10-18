@@ -13,7 +13,7 @@
 
 | **Files** | **Descriptions** |
 |---|---|
-| **Practice0_Installation_ColabPythonJupyter_KK.pdf**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **[설치준비]** Colab & Anaconda(Python) 설치 |
+| **Practice0_Installation_ColabPythonJupyter_KK.pdf**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **[설치준비]** Colab & Anaconda(Python) 설치 |
 | **Practice1-1_Basic_JupyterNotebook_KK** | **[Jupyter Notebook]** Python으로 프로그래밍하는 Jupyter Notebook |
 | **Practice1-1_Basic_Markdown_KK** | **[Markdown]** Python으로 프로그래밍을 설명하는 문서화 |
 | **Practice1-2_Basic_InputOutput_KK** | **[데이터입출력]** Python이 다루는 고정된 데이터 입출력 형태 |
