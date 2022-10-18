@@ -11,7 +11,7 @@
 
 ## 📚 Files and Descriptions
 
-| **Files** | **Descriptions** |
+| **Files**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Descriptions** |
 |---|---|
 | **Practice0_Installation_ColabPythonJupyter_KK.pdf** | **[설치준비]** Colab & Anaconda(Python) 설치 |
 | **Practice1-1_Basic_JupyterNotebook_KK** | **[Jupyter Notebook]** Python으로 프로그래밍하는 Jupyter Notebook |
