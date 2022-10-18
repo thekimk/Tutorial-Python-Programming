@@ -11,7 +11,7 @@
 
 ## 📚 Files and Descriptions
 
-| **Files**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Descriptions** |
+| **Files** | **Descriptions** |
 |---|---|
 | **Practice0_Installation_ColabPythonJupyter_KK.pdf** | **[설치준비]** Colab & Anaconda(Python) 설치 |
 | **Practice1-1_Basic_JupyterNotebook_KK** | **[Jupyter Notebook]** Python으로 프로그래밍하는 Jupyter Notebook |
@@ -30,6 +30,6 @@
 | **Practice1-8_Basic_InputDataFrame_KK** | **[데이터분석]** 가장 많이 사용되는 Pandas 패키지로 데이터처리 |
 | **Practice1-8_Basic_InputDataFrame_KK(Practice)** | **[데이터]** 실습 |
 | **Practice1-9_Basic_Visualization_Matplotlib_KK** | **[데이터시각화]** Matplotlib 패키지로 기본적인 데이터 시각화 |
-| **Practice1-9_Basic_Visualization_Seaborn_KK** | **[데이터시각화]** Seaborn 패키지로 고급적인 데이터 시각화 |
+| **Practice1-9_Basic_Visualization_Seaborn_KK**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **[데이터시각화]** Seaborn 패키지로 고급적인 데이터 시각화 |
 
 ---
