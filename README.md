@@ -28,8 +28,9 @@
 | **Practice1-7_Basic_InputNumpy_KK** | **[데이터분석]** 빠른연산에 최적화된 Numpy 패키지로 데이터처리 |
 | **Practice1-7_Basic_InputNumpy_KK(Practice)** | **[데이터분석]** 실습 |
 | **Practice1-8_Basic_InputDataFrame_KK** | **[데이터분석]** 가장 많이 사용되는 Pandas 패키지로 데이터처리 |
-| **Practice1-8_Basic_InputDataFrame_KK(Practice)** | **[데이터]** 실습 |
+| **Practice1-8_Basic_InputDataFrame_KK(Practice)** | **[데이터분석]** 실습 |
 | **Practice1-9_Basic_Visualization_Matplotlib_KK** | **[데이터시각화]** Matplotlib 패키지로 기본적인 데이터 시각화 |
+| **Practice1-9_Basic_Visualization_Matplotlib_KK(Practice)** | **[데이터시각화]** Matplotlib 패키지로 기본적인 데이터 시각화 |
 | **Practice1-9_Basic_Visualization_Seaborn_KK** | **[데이터시각화]** Seaborn 패키지로 고급적인 데이터 시각화 |
 
 ---
